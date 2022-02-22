@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+
+\bibitem{IT}
+Jian-Feng Cai, Emmanuel~J. Candès, and Zuowei Shen.
+\newblock A singular value thresholding algorithm for matrix completion.
+\newblock {\em SIAM Journal on Optimization}, 20(4):1956--1982, 2010.
+
+\bibitem{ALM}
+Z.~Lin, M.~Chen, and Y.~Ma.
+\newblock The augmented lagrange multiplier method for exact recovery of
+  corrupted low-rank matrices.
+\newblock {\em eprint arxiv}, 9, 2010.
+
+\end{thebibliography}
